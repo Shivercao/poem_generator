@@ -55,23 +55,23 @@ Aclarations:
 - Newlines and uppercasing of the first letter is done by hand
 - I've also trimmed the end of the poem so it doesn't end in the middle of a word
 
-			Poem 1 				    | 				Poem 2 
------------------------------------ | -----------------------------------
-__Ayer naciste, y moriras mañana.	|  __Atare mi caballo del tronco__
-para tan breve ser__				|  __de algun arbol__,
-esperando el alto de tu corazon		|  el corazon de las peras
-esta epoca es lo que				|  de tus pechos y los pechos
-el mundo de tiempos de				|  de los corazos,
-los pensamientos de los pared,		|  en la marca
-en el amor 							|  en el amor 
-en el amor 							|  es el corazon
-de los cabezos si					|  en el canto 
-el alma de tu corazon				|  es mano de los pesames 
-de la mas alto esta					|  es el consentio de ti 
-el cielo.							|  alma de ti me amor,
-									|  el amor es
-									|  es espejado de tus peros.
------------------------------------ | -----------------------------------
+| Poem 1 | Poem 2 |
+| --- | --- |
+| __Ayer naciste, y moriras mañana.	|  __Atare mi caballo del tronco__ |
+| para tan breve ser__ | __de algun arbol__, |
+| esperando el alto de tu corazon |  el corazon de las peras |
+| esta epoca es lo que |  de tus pechos y los pechos |
+| el mundo de tiempos de |  de los corazos, |
+| los pensamientos de los pared, |  en la marca |
+| en el amor |  en el amor  |
+| en el amor |  es el corazon |
+| de los cabezos si	|  en el canto  |
+| el alma de tu corazon	|  es mano de los pesames  |
+| de la mas alto esta |  es el consentio de ti  |
+| el cielo.	|  alma de ti me amor, |
+| --- |  el amor es |
+| --- |  es espejado de tus peros. |
+| --- | ---|
 
 ## Conclusion
 
