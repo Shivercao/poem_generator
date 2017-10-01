@@ -56,35 +56,35 @@ Aclarations:
 - I've also trimmed the end of the poem so it doesn't end in the middle of a word
 
 ### Poem 1
- *__Ayer naciste, y moriras mañana.				 
- para tan breve ser__ 							 
- esperando el alto de tu corazon 				 
- esta epoca es lo que							 
- el mundo de tiempos de 						 
- los pensamientos de los pared,					 
- en el amor										 
- en el amor										 
- de los cabezos si								 
- el alma de tu corazon							 
- de la mas alto esta 							 
- el cielo.*
+ *__Ayer naciste, y moriras mañana.	<br />		 
+ para tan breve ser__ <br />		 
+ esperando el alto de tu corazon <br />		 
+ esta epoca es lo que <br />		 
+ el mundo de tiempos de <br />			 
+ los pensamientos de los pared,	<br />			 
+ en el amor	<br />			 
+ en el amor	<br />				 
+ de los cabezos si	<br />
+ el alma de tu corazon <br />
+ de la mas alto esta <br />
+ el cielo.* <br />
 
  ### Poem 2
  
- *__Atare mi caballo del tronco__  
- __de algun arbol__,											 
- el corazon de las peras 											 
- de tus pechos y los pechos 											 
- de los corazos,
- en la marca 
- en el amor  
- es el corazon 
- en el canto  
- es mano de los pesames  
- es el consentio de ti  
- alma de ti me amor, 
- el amor es 
- es espejado de tus peros. *	
+ *__Atare mi caballo del tronco__ <br />
+ __de algun arbol__, <br />
+ el corazon de las peras <br />
+ de tus pechos y los pechos <br />
+ de los corazos, <br />
+ en la marca <br />
+ en el amor <br />
+ es el corazon <br />
+ en el canto <br />
+ es mano de los pesames <br />
+ es el consentio de ti <br />
+ alma de ti me amor, <br />
+ el amor es <br />
+ es espejado de tus peros. * <br />
 
 
 ## Conclusion
