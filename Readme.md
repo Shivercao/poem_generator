@@ -57,7 +57,6 @@ Aclarations:
 
 			Poem 1 				    | 				Poem 2 
 ----------------------------------- | -----------------------------------
-
 __Ayer naciste, y moriras mañana.	|  __Atare mi caballo del tronco__
 para tan breve ser__				|  __de algun arbol__,
 esperando el alto de tu corazon		|  el corazon de las peras
@@ -72,7 +71,7 @@ de la mas alto esta					|  es el consentio de ti
 el cielo.							|  alma de ti me amor,
 									|  el amor es
 									|  es espejado de tus peros.
-
+----------------------------------- | -----------------------------------
 
 ## Conclusion
 
