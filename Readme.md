@@ -55,10 +55,8 @@ Aclarations:
 - Newlines and uppercasing of the first letter is done by hand
 - I've also trimmed the end of the poem so it doesn't end in the middle of a word
 
-
-| Poem 1 | Poem 2 |
-| --- | --- |
-| __Ayer naciste, y moriras mañana.				 
+### Poem 1
+ *__Ayer naciste, y moriras mañana.				 
  para tan breve ser__ 							 
  esperando el alto de tu corazon 				 
  esta epoca es lo que							 
@@ -69,8 +67,12 @@ Aclarations:
  de los cabezos si								 
  el alma de tu corazon							 
  de la mas alto esta 							 
- el cielo. | __Atare mi caballo del tronco__  
-__de algun arbol__,											 
+ el cielo.*
+
+ ### Poem 2
+ 
+ *__Atare mi caballo del tronco__  
+ __de algun arbol__,											 
  el corazon de las peras 											 
  de tus pechos y los pechos 											 
  de los corazos,
@@ -82,8 +84,7 @@ __de algun arbol__,
  es el consentio de ti  
  alma de ti me amor, 
  el amor es 
- es espejado de tus peros. |
-
+ es espejado de tus peros. *	
 
 
 ## Conclusion
