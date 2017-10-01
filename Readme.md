@@ -84,7 +84,7 @@ Aclarations:
  es el consentio de ti <br />
  alma de ti me amor, <br />
  el amor es <br />
- es espejado de tus peros. * <br />
+ es espejado de tus peros.* <br />
 
 
 ## Conclusion
