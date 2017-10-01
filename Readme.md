@@ -14,7 +14,7 @@ Each training sample consist of a sentence in wich each character is one hot enc
 
 ## Model
 
-# LSTM Network
+### LSTM Network
 - LSTM cell
   - Number of units = 100
   - Activation => tanh
